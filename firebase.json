@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "sign in and login page",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
